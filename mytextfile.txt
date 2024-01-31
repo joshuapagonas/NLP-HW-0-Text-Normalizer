@@ -1,0 +1,1 @@
+This is a textfile that contains a lot of natural language. Symbols such as $ and ^ are meant to be filtered out with the program's algorithms present along with if the necessary commands are invoked within the command line. Here is ho%p!ing that the program works and there are little to no bugs present after testing my program. Sweepstakes
